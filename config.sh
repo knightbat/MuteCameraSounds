@@ -52,10 +52,6 @@ print_modname() {
 # List all directories you want to directly replace in the system
 
 REPLACE="
-/system/media/audio/ui/camera_click.ogg
-/system/media/audio/ui/camera_focus.ogg
-/system/media/audio/ui/VideoRecord.ogg
-/system/media/audio/ui/VideoStop.ogg
 "
 
 ##########################################################################################
