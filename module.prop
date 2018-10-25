@@ -1,0 +1,7 @@
+id=kb_mute_camera
+name=MuteCameraSounds
+version=0.01
+versionCode=1
+author=knightbat
+description=Module to mute camera sounds.
+minMagisk=17000
